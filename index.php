@@ -2,16 +2,16 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Catálogo de clientes</title>
+  <title>CatÃ¡logo de clientes</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 </head>
 <body>
   <div class = "container">
     <div class="jumbotron">
-      <h1 class="display-4">Catálogo de clientes</h1>
-      <p class="lead">Aplicación de muestra del catálogo de clientes</p>
+      <h1 class="display-4">CatÃ¡logo de clientes</h1>
+      <p class="lead">AplicaciÃ³n de muestra del catÃ¡logo de clientes</p>
       <hr class="my-4">
-      <p>Aplicación de muestra PHP conectada a una base de datos MySQL para enumerar un catálogo de clientes</p>
+      <p>AplicaciÃ³n de muestra PHP conectada a una base de datos MySQL para enumerar un catÃ¡logo de clientes</p>
     </div>
     <table class="table table-striped table-responsive">
       <thead>
